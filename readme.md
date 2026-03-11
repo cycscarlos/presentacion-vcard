@@ -21,14 +21,12 @@ Crear una **presencia profesional en línea ligera, rápida y compatible con Wha
 
 ## 📁 Estructura del Repositorio
 
-├── index.html # Página principal (perfil web)
-├── assets/
-│ └── img/
-│ └── foto.jpg # Foto de perfil optimizada
-├── tarjetas/
-│ ├── Carlos_Colmenares_Tarjeta_QR_Final.png # Versión visual con QR
-│ └── ... # Otras variantes (opcional)
-└── README.md # Este archivo
+├── index.html # Página principal con Open Graph y redirección
+├── imagen.jpg # Foto de perfil (usada en og:image)
+├── logo.png # Logo CYCS & Co.
+├── readme.md # Este archivo
+├── Carlos-Colmenares-A-VCard.code-workspace # Workspace VS Code
+└── VCard.code-workspace # Workspace VS Code (alternativo)
 
 ---
 
